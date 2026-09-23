@@ -1,0 +1,16 @@
+# Core numerical and data-analysis stack
+numpy
+pandas
+scipy
+
+# Statistics and machine learning
+statsmodels
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebook environment
+jupyterlab
+ipykernel
